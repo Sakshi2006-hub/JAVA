@@ -1,4 +1,4 @@
-import java.io.IOException;
+hhimport java.io.IOException;
 class throwsException
 {
 	void m() throws IOException
